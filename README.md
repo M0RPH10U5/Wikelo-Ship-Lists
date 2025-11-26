@@ -3,7 +3,7 @@ Wikelo Polaris Table
 
 | Item | Needed | Drakestorm | 1337-m0rph10u5 | Fun_and_Games |
 |:---:|:---:|:---:|:---:|:---:|
-| Wikelo Favor | 50
+| Wikelo Favor | 50 | 0 | 0 | 0 |
 | Polaris Bit | 25
 | DCHS-05 Orbital Positioning Comp-Board | 20
 | Carinite | 20
