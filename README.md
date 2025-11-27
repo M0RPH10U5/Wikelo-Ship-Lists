@@ -8,7 +8,7 @@ Wikelo Polaris Table
 | DCHS-05 Orbital Positioning Comp-Board | 20 | 20 | 3 | 0 | 23 |
 | Carinite | 20 | 36 | 20 | 10 | 66 |
 | Irradiated Valakkar Fang (Apex) | 20 | 6 | 0 | 0 | 6 |
-| MG Scrip | 20 | 2 | 20 | 0 | 22 |
+| MG Scrip | 20 | 20 | 20 | 0 | 40 |
 | Ace Interceptor Helmet | 15 | 0 | 0 | 0 | 0 |
 | Irradiated Valakkar Pearl (Grade AAA) | 20 | 50 | 0 | 0 | 50 |
 | UEE 6th Platoon Medal (Pristine) | 20 | 0 | 0 | 0 | 0 |
