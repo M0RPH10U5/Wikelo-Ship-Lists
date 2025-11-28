@@ -9,7 +9,7 @@ Wikelo Polaris Table
 | Carinite | 20 | 36 | 20 | 10 | 66 |
 | Irradiated Valakkar Fang (Apex) | 20 | 6 | 0 | 0 | 6 |
 | MG Scrip | 20 | 20 | 20 | 0 | 40 |
-| Ace Interceptor Helmet | 15 | 0 | 0 | 0 | 0 |
+| Ace Interceptor Helmet | 15 | 0 | 0 | 3 | 3 |
 | Irradiated Valakkar Pearl (Grade AAA) | 20 | 50 | 0 | 0 | 50 |
 | UEE 6th Platoon Medal (Pristine) | 20 | 10 | 0 | 0 | 10 |
 | Carinite (Pure) | 20 | 0 | 0 | 0 | 0 |
