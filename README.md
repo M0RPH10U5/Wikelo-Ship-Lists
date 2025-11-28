@@ -11,7 +11,7 @@ Wikelo Polaris Table
 | MG Scrip | 20 | 20 | 20 | 0 | 40 |
 | Ace Interceptor Helmet | 15 | 0 | 0 | 0 | 0 |
 | Irradiated Valakkar Pearl (Grade AAA) | 20 | 50 | 0 | 0 | 50 |
-| UEE 6th Platoon Medal (Pristine) | 20 | 0 | 0 | 0 | 0 |
+| UEE 6th Platoon Medal (Pristine) | 20 | 10 | 0 | 0 | 0 |
 | Carinite (Pure) | 20 | 0 | 0 | 0 | 0 |
 | Finley the Stormwal Large Plushie | 10 | 10 | 10 | 10 | 30 |
 | Picoball | 1 | 1 | 1 | 1 | 3 |
