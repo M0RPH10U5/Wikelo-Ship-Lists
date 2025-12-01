@@ -12,7 +12,7 @@ Wikelo Polaris Table
 | Ace Interceptor Helmet $${\color{red}*}$$ | 15 | 0 | 0 | 3 | 3 |
 | Irradiated Valakkar Pearl (Grade AAA) $${\color{red}*}$$ | 20 | 50 | 0 | 0 | 50 |
 | UEE 6th Platoon Medal (Pristine) $${\color{red}*}$$ | 20 | 10 | 0 | 0 | 10 |
-| Carinite (Pure) $${\color{red}*}$$ | 20 | 2 | 0 | 0 | 0 |
+| Carinite (Pure) $${\color{red}*}$$ | 20 | 10 | 0 | 0 | 10 |
 | Finley the Stormwal Large Plushie | 10 | 10 | 10 | 10 | 30 |
 | Picoball | 1 | 1 | 1 | 1 | 3 |
 | Janalite | 5 | 5 | 5 | 5 | 15 |
