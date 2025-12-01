@@ -4,21 +4,21 @@ Wikelo Polaris Table
 | Item | Needed | Drakestorm | 1337-m0rph10u5 | Fun_and_Games | Total |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | Wikelo Favor $\color{Red}{\textsf{*}}$ | 50 | 0 | 0 | 0 | 0 |
-| Polaris Bit $${\color{red}*}$$ | 25 | 0 | 0 | 0 | 0 |
-| DCHS-05 Orbital Positioning Comp-Board $${\color{red}*}$$ | 20 | 20 | 7 | 0 | 27 |
+| Polaris Bit $\color{Red}{\textsf{*}}$ | 25 | 0 | 0 | 0 | 0 |
+| DCHS-05 Orbital Positioning Comp-Board $\color{Red}{\textsf{*}}$ | 20 | 20 | 7 | 0 | 27 |
 | Carinite | 20 | 36 | 20 | 10 | 66 |
-| Irradiated Valakkar Fang (Apex) $${\color{red}*}$$ | 20 | 28 | 0 | 0 | 28 |
+| Irradiated Valakkar Fang (Apex) $\color{Red}{\textsf{*}}$ | 20 | 28 | 0 | 0 | 28 |
 | MG Scrip | 20 | 20 | 20 | 0 | 40 |
-| Ace Interceptor Helmet $${\color{red}*}$$ | 15 | 0 | 0 | 3 | 3 |
-| Irradiated Valakkar Pearl (Grade AAA) $${\color{red}*}$$ | 20 | 50 | 0 | 0 | 50 |
-| UEE 6th Platoon Medal (Pristine) $${\color{red}*}$$ | 20 | 10 | 0 | 0 | 10 |
-| Carinite (Pure) $${\color{red}*}$$ | 20 | 11 | 0 | 0 | 11 |
+| Ace Interceptor Helmet $\color{Red}{\textsf{*}}$ | 15 | 0 | 0 | 3 | 3 |
+| Irradiated Valakkar Pearl (Grade AAA) $\color{Red}{\textsf{*}}$ | 20 | 50 | 0 | 0 | 50 |
+| UEE 6th Platoon Medal (Pristine) $\color{Red}{\textsf{*}}$ | 20 | 10 | 0 | 0 | 10 |
+| Carinite (Pure) $\color{Red}{\textsf{*}}$ | 20 | 11 | 0 | 0 | 11 |
 | Finley the Stormwal Large Plushie | 10 | 10 | 10 | 10 | 30 |
 | Picoball | 1 | 1 | 1 | 1 | 3 |
 | Janalite | 5 | 5 | 5 | 5 | 15 |
 | WowBlast Desperado Toy Pistol Red | 1 | 1 | 1 | 1 | 3 |
 | 8 SCU of Atlasium | 6 | 18 | 0 | 0 | 18 |
-| Scourge Railgun $${\color{red}*}$$ | 10 | 5 | 8 | 0 | 13 |
+| Scourge Railgun $\color{Red}{\textsf{*}}$ | 10 | 5 | 8 | 0 | 13 |
 | ASD Secure Drive | 20 | 21 | 30 | 17 | 68 |
 | RCMBNT-PWL-1 | 1 | 2 | 1 | 0 | 3 |
 | RCMBNT-PWL-2 | 1 | 2 | 1 | 0 | 3 |
