@@ -7,7 +7,7 @@ Wikelo Polaris Table
 | Polaris Bit $${\color{red}*}$$ | 25 | 0 | 0 | 0 | 0 |
 | DCHS-05 Orbital Positioning Comp-Board $${\color{red}*}$$ | 20 | 20 | 7 | 0 | 27 |
 | Carinite | 20 | 36 | 20 | 10 | 66 |
-| Irradiated Valakkar Fang (Apex) $${\color{red}*}$$ | 20 | 6 | 0 | 0 | 6 |
+| Irradiated Valakkar Fang (Apex) $${\color{red}*}$$ | 20 | 11 | 0 | 0 | 11 |
 | MG Scrip | 20 | 20 | 20 | 0 | 40 |
 | Ace Interceptor Helmet $${\color{red}*}$$ | 15 | 0 | 0 | 3 | 3 |
 | Irradiated Valakkar Pearl (Grade AAA) $${\color{red}*}$$ | 20 | 50 | 0 | 0 | 50 |
@@ -18,7 +18,7 @@ Wikelo Polaris Table
 | Janalite | 5 | 5 | 5 | 5 | 15 |
 | WowBlast Desperado Toy Pistol Red | 1 | 1 | 1 | 1 | 3 |
 | 8 SCU of Atlasium | 6 | 18 | 0 | 0 | 18 |
-| Scourge Railgun $${\color{red}*}$$ | 10 | 3 | 8 | 0 | 11 |
+| Scourge Railgun $${\color{red}*}$$ | 10 | 5 | 8 | 0 | 13 |
 | ASD Secure Drive | 20 | 21 | 30 | 17 | 68 |
 | RCMBNT-PWL-1 | 1 | 2 | 1 | 0 | 3 |
 | RCMBNT-PWL-2 | 1 | 2 | 1 | 0 | 3 |
