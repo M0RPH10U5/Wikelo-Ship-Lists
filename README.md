@@ -7,7 +7,7 @@ Wikelo Polaris Table
 | Polaris Bit $${\color{Red}*}$$ | 25 | 0 | 0 | 0 | 0 |
 | DCHS-05 Orbital Positioning Comp-Board $${\color{Red}*}$$ | 20 | 20 | 7 | 0 | 27 |
 | Carinite | 20 | 36 | 20 | 10 | 66 |
-| Irradiated Valakkar Fang (Apex) $${\color{Red}*}$$ | 20 | 28 | 0 | 0 | 28 |
+| Irradiated Valakkar Fang (Apex) $${\color{Red}*}$$ | 20 | 20 | 25 | 0 | 45 |
 | MG Scrip | 20 | 20 | 20 | 0 | 40 |
 | Ace Interceptor Helmet $${\color{Red}*}$$ | 15 | 9 | 0 | 3 | 12 |
 | Irradiated Valakkar Pearl (Grade AAA) $${\color{Red}*}$$ | 20 | 50 | 0 | 0 | 50 |
