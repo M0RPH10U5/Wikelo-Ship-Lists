@@ -1,4 +1,3 @@
 # Moved Table to idividual Files.
 
-### Polaris
-[Polaris Table](polaris.md)
+### [Polaris Table](polaris.md)
