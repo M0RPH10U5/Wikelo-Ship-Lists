@@ -1,7 +1,7 @@
 # Idris
 ### Wikelo Idris Table
 
-> [!NOTE
+> [!NOTE]
 > Tabel and values will be added once SC 4.5 goes LIVE
 
 ###### [Return to README.md](README.md)
