@@ -6,6 +6,20 @@
 
 ###### [Return to README.md](README.md)
 
-Table Here
+<!-- $${\color{Red}Text Here}$$
+  -- > [!NOTE]
+  -- > This is a Note
+  -- > [!TIP]
+  -- > This is a Tip
+  -- > [!IMPORTANT]
+  -- > This is important info
+  -- > [!WARNING]
+  -- > This is a warning
+  -- > [!CAUTION]
+  -- > This is an instruction to use caution -->
+
+| Item | Needed | Drakestorm | 1337-m0rph10u5 | Fun_and_Games | Total |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Content | - | - | - | - | - |
 
 ###### [Return to README.md](README.md)
